@@ -1,0 +1,10 @@
+img {
+    width: 500px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
