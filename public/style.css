@@ -1,23 +1,10 @@
-a {
-    text-align: center;
-    margin: auto;
-}
-
-section {
-    color: white;
-    background-color: black;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+img {
     width: 500px;
-    height: fit-content;
 }
 
-section img {
-    width: 300px;
-}
-
-section p {
-    text-align: center;
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
 }
